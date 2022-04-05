@@ -1,1 +1,3 @@
-# Facial-Expression-Recognition---Tiny
+# Facial-Expression-Recognition - Tiny Version
+
+Expressions on the face are a vital mode of communication in humans as well as animals. Human behavior, psychological traits, are all easily studied using facial expressions. It is also widely used in medical treatments and therapies. In this section, we will be working on images of facial expressions and portraits of faces to decode the sentiment presented in the image.  The Face Emotion Recognizer (generally knowns as the FER) is a CNN based model which can be useful for sentiment analysis of images and videos. The project is built using Pytorch and Residual Networks that uses a convolution neural network. 
